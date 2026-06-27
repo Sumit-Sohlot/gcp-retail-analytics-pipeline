@@ -1,0 +1,11 @@
+customer_id,name,city,state,membership
+C1001,Rahul Sharma,Delhi,Delhi,Gold
+C1002,Priya Verma,Mumbai,Maharashtra,Silver
+C1003,Amit Singh,Pune,Maharashtra,Gold
+C1004,Neha Gupta,Bangalore,Karnataka,Platinum
+C1005,Karan Mehta,Delhi,Delhi,Silver
+C1006,Sneha Kapoor,Hyderabad,Telangana,Gold
+C1007,Rohit Jain,Gurgaon,Haryana,Silver
+C1008,Anjali Arora,Noida,Uttar Pradesh,Gold
+C1009,Vikas Yadav,Chennai,Tamil Nadu,Platinum
+C1010,Meera Joshi,Bangalore,Karnataka,Gold

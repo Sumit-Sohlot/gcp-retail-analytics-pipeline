@@ -1,0 +1,7 @@
+product_id,product_name,category,stock_quantity
+P100,Laptop,Electronics,50
+P101,Mobile,Electronics,100
+P102,Headphones,Accessories,200
+P103,Keyboard,Accessories,150
+P104,Monitor,Electronics,70
+P105,Mouse,Accessories,300
